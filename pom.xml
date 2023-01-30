@@ -58,8 +58,7 @@
                     </execution>
                 </executions>
             </plugin>
-                <plugins>
-               <plugin>
+             <plugin>
                  <groupId>org.jacoco</groupId>
                  <artifactId>jacoco-maven-plugin</artifactId>
                  <reportSets>
